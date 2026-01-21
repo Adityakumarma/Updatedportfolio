@@ -116,12 +116,12 @@
 
 .html {
     
-    width: 92%;
+    width: 95%;
     background-color: #ffffff;
 }
 
 .css {
-    width: 90%;
+    width: 95%;
     background-color: white;
 }
 
@@ -130,19 +130,27 @@
     background-color: white;
 }
 .tw{
-    width: 85%;
+    width: 93%;
     background-color: white;
 }
 .figma{
-    width: 95%;
+    width: 85%;
     background-color: white;
 }
 .js{
-    width: 85%;
+    width: 90%;
     background-color: white;
 }
-.py{
-    width: 85%;
+.react{
+    width: 90%;
+    background-color: white;
+}
+.redux{
+    width: 75%;
+    background-color: white;
+}
+.mongo{
+    width: 75%;
     background-color: white;
 }
 
